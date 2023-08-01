@@ -21,7 +21,7 @@ body {
 }
 
 .header-logo {
-    height: 50px;
+    height: 80px;
     width: auto;
 }
 
@@ -46,7 +46,7 @@ body {
     margin-right: 400px;
 }
 .hero-image{
-    height:250px;
+    height:300px;
     width:auto;
 }
 .jb-tech-card {
