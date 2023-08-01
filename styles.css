@@ -41,8 +41,7 @@ body {
 .hero {
     display: flex;
     justify-content: center;
-    margin: 10% 10%;
-    max-width: 1200px;
+    margin: 100px;
     margin-left: 400px;
     margin-right: 400px;
 }
